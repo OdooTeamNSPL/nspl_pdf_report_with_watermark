@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Reports With Watermark',
-    'version': '18.0.1.0.0',
+    'version': '19.0.1',
     'category': 'Extra Tools',
     'summary': 'Add watermark to PDF reports',
     'description': """
